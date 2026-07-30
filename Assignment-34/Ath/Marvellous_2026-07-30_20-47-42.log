@@ -1,0 +1,612 @@
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process', 'status': 'running', 'pid': 0}
+______________________________________________
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System', 'status': 'running', 'pid': 4}
+______________________________________________
+{'username': None, 'name': 'Registry', 'status': 'running', 'pid': 224}
+______________________________________________
+{'username': None, 'name': 'smss.exe', 'status': 'running', 'pid': 868}
+______________________________________________
+{'username': None, 'name': 'csrss.exe', 'status': 'running', 'pid': 1204}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 1284}
+______________________________________________
+{'username': None, 'name': 'wininit.exe', 'status': 'running', 'pid': 1288}
+______________________________________________
+{'username': None, 'name': 'services.exe', 'status': 'running', 'pid': 1424}
+______________________________________________
+{'username': None, 'name': 'lsass.exe', 'status': 'running', 'pid': 1444}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 1476}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 1512}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 1596}
+______________________________________________
+{'username': None, 'name': 'fontdrvhost.exe', 'status': 'running', 'pid': 1616}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'WindowsTerminal.exe', 'status': 'running', 'pid': 1700}
+______________________________________________
+{'username': None, 'name': 'WUDFHost.exe', 'status': 'running', 'pid': 1708}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 1764}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 1808}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'conhost.exe', 'status': 'running', 'pid': 1884}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 1928}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 1956}
+______________________________________________
+{'username': None, 'name': 'mcshield.exe', 'status': 'running', 'pid': 2000}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2020}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2128}
+______________________________________________
+{'username': None, 'name': 'IntelCpHDCPSvc.exe', 'status': 'running', 'pid': 2136}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2164}
+______________________________________________
+{'username': None, 'name': 'WUDFHost.exe', 'status': 'running', 'pid': 2220}
+______________________________________________
+{'username': None, 'name': 'WUDFHost.exe', 'status': 'running', 'pid': 2272}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2312}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2368}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2376}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2516}
+______________________________________________
+{'username': None, 'name': 'MemCompression', 'status': 'running', 'pid': 2540}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2652}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'mscopilot.exe', 'status': 'running', 'pid': 2736}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2764}
+______________________________________________
+{'username': None, 'name': 'servicehost.exe', 'status': 'running', 'pid': 2800}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2860}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2984}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 2992}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3000}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3124}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3140}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3224}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3240}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3252}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'CrossDeviceService.exe', 'status': 'running', 'pid': 3308}
+______________________________________________
+{'username': None, 'name': 'csrss.exe', 'status': 'running', 'pid': 3336}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3340}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3372}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3412}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3472}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3480}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3572}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3668}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3728}
+______________________________________________
+{'username': None, 'name': 'spoolsv.exe', 'status': 'running', 'pid': 3800}
+______________________________________________
+{'username': None, 'name': 'httpd.exe', 'status': 'running', 'pid': 3812}
+______________________________________________
+{'username': None, 'name': 'DAX3API.exe', 'status': 'running', 'pid': 3832}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3896}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 3948}
+______________________________________________
+{'username': None, 'name': 'OneApp.IGCC.WinService.exe', 'status': 'running', 'pid': 4032}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 4044}
+______________________________________________
+{'username': None, 'name': 'Lenovo.Modern.ImController.exe', 'status': 'running', 'pid': 4068}
+______________________________________________
+{'username': None, 'name': 'FMService64.exe', 'status': 'running', 'pid': 4112}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 4132}
+______________________________________________
+{'username': None, 'name': 'IntelAudioService.exe', 'status': 'running', 'pid': 4152}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 4168}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 4184}
+______________________________________________
+{'username': None, 'name': 'ipfsvc.exe', 'status': 'running', 'pid': 4208}
+______________________________________________
+{'username': None, 'name': 'LenovoUtilityService.exe', 'status': 'running', 'pid': 4252}
+______________________________________________
+{'username': None, 'name': 'wlanext.exe', 'status': 'running', 'pid': 4312}
+______________________________________________
+{'username': None, 'name': 'VoiceAssistantService.exe', 'status': 'running', 'pid': 4356}
+______________________________________________
+{'username': None, 'name': 'mfemms.exe', 'status': 'running', 'pid': 4372}
+______________________________________________
+{'username': None, 'name': 'PEFService.exe', 'status': 'running', 'pid': 4384}
+______________________________________________
+{'username': None, 'name': 'mysqld.exe', 'status': 'running', 'pid': 4400}
+______________________________________________
+{'username': None, 'name': 'ModuleCoreService.exe', 'status': 'running', 'pid': 4408}
+______________________________________________
+{'username': None, 'name': 'mongod.exe', 'status': 'running', 'pid': 4416}
+______________________________________________
+{'username': None, 'name': 'SessionService.exe', 'status': 'running', 'pid': 4440}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 4448}
+______________________________________________
+{'username': None, 'name': 'LNBITSSvc.exe', 'status': 'running', 'pid': 4472}
+______________________________________________
+{'username': None, 'name': 'LenovoVantageService.exe', 'status': 'running', 'pid': 4492}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 4508}
+______________________________________________
+{'username': None, 'name': 'RtkAudUService64.exe', 'status': 'running', 'pid': 4516}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 4524}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 4532}
+______________________________________________
+{'username': None, 'name': 'ipf_uf.exe', 'status': 'running', 'pid': 4540}
+______________________________________________
+{'username': None, 'name': 'WMIRegistrationService.exe', 'status': 'running', 'pid': 4548}
+______________________________________________
+{'username': None, 'name': 'MsMpEng.exe', 'status': 'running', 'pid': 4572}
+______________________________________________
+{'username': None, 'name': 'MpDefenderCoreService.exe', 'status': 'running', 'pid': 4600}
+______________________________________________
+{'username': None, 'name': 'McCBEntAndInstru.exe', 'status': 'running', 'pid': 5024}
+______________________________________________
+{'username': None, 'name': 'jhi_service.exe', 'status': 'running', 'pid': 5352}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 5400}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 5876}
+______________________________________________
+{'username': None, 'name': 'LenovoVantage-(VantageCoreAddin).exe', 'status': 'running', 'pid': 6124}
+______________________________________________
+{'username': None, 'name': 'WUDFHost.exe', 'status': 'running', 'pid': 6412}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedge.exe', 'status': 'running', 'pid': 6512}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'mscopilot.exe', 'status': 'running', 'pid': 6568}
+______________________________________________
+{'username': None, 'name': 'MMSSHOST.exe', 'status': 'running', 'pid': 6620}
+______________________________________________
+{'username': None, 'name': 'WmiPrvSE.exe', 'status': 'running', 'pid': 6680}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 6704}
+______________________________________________
+{'username': None, 'name': 'unsecapp.exe', 'status': 'running', 'pid': 6744}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 6788}
+______________________________________________
+{'username': None, 'name': 'mfevtps.exe', 'status': 'running', 'pid': 6832}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 7028}
+______________________________________________
+{'username': None, 'name': 'ProtectedModuleHost.exe', 'status': 'running', 'pid': 7116}
+______________________________________________
+{'username': None, 'name': 'httpd.exe', 'status': 'running', 'pid': 7720}
+______________________________________________
+{'username': None, 'name': 'SecurityHealthService.exe', 'status': 'running', 'pid': 7788}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 7876}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'powershell.exe', 'status': 'running', 'pid': 8112}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 8128}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'OpenConsole.exe', 'status': 'running', 'pid': 8328}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 8332}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 8348}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 8412}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 9124}
+______________________________________________
+{'username': None, 'name': 'ModuleCoreService.exe', 'status': 'running', 'pid': 9452}
+______________________________________________
+{'username': None, 'name': 'conhost.exe', 'status': 'running', 'pid': 9476}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'SearchHost.exe', 'status': 'running', 'pid': 9540}
+______________________________________________
+{'username': None, 'name': 'McCSPServiceHost.exe', 'status': 'running', 'pid': 9564}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Lenovo.Modern.ImController.PluginHost.Device.exe', 'status': 'running', 'pid': 9588}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 9904}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 9912}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 10128}
+______________________________________________
+{'username': None, 'name': 'WUDFHost.exe', 'status': 'running', 'pid': 10196}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 10236}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 10660}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'FileCoAuth.exe', 'status': 'running', 'pid': 10796}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 10944}
+______________________________________________
+{'username': None, 'name': 'AggregatorHost.exe', 'status': 'running', 'pid': 11040}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'OneDrive.exe', 'status': 'running', 'pid': 11176}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 11204}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 11212}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 11224}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 11260}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedge.exe', 'status': 'running', 'pid': 11288}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 11504}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 11564}
+______________________________________________
+{'username': None, 'name': 'conhost.exe', 'status': 'running', 'pid': 11668}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'cmd.exe', 'status': 'running', 'pid': 12132}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 12172}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'mscopilot.exe', 'status': 'running', 'pid': 12204}
+______________________________________________
+{'username': None, 'name': 'SearchIndexer.exe', 'status': 'running', 'pid': 12488}
+______________________________________________
+{'username': None, 'name': 'WmiApSrv.exe', 'status': 'running', 'pid': 12672}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'ms-teams.exe', 'status': 'running', 'pid': 13044}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'svchost.exe', 'status': 'running', 'pid': 13080}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'EpicWebHelper.exe', 'status': 'running', 'pid': 13196}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 13440}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 14112}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'python.exe', 'status': 'running', 'pid': 14296}
+______________________________________________
+{'username': None, 'name': 'NisSrv.exe', 'status': 'running', 'pid': 14388}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 14536}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 14876}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedge.exe', 'status': 'running', 'pid': 14980}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'unsecapp.exe', 'status': 'running', 'pid': 15084}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'GoogleDriveFS.exe', 'status': 'running', 'pid': 15176}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 15220}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 15428}
+______________________________________________
+{'username': None, 'name': 'mcapexe.exe', 'status': 'running', 'pid': 15600}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 15684}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'WidgetService.exe', 'status': 'running', 'pid': 15948}
+______________________________________________
+{'username': None, 'name': 'MfeAVSvc.exe', 'status': 'running', 'pid': 15956}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 16108}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 16136}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'sihost.exe', 'status': 'running', 'pid': 16184}
+______________________________________________
+{'username': None, 'name': 'McCBEntAndInstru.exe', 'status': 'running', 'pid': 16272}
+______________________________________________
+{'username': None, 'name': 'FileSyncHelper.exe', 'status': 'running', 'pid': 16412}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'backgroundTaskHost.exe', 'status': 'running', 'pid': 16476}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'svchost.exe', 'status': 'running', 'pid': 16736}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 16796}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 16900}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'EpicGamesLauncher.exe', 'status': 'running', 'pid': 17504}
+______________________________________________
+{'username': None, 'name': 'fontdrvhost.exe', 'status': 'running', 'pid': 17632}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'conhost.exe', 'status': 'running', 'pid': 17644}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'StartMenuExperienceHost.exe', 'status': 'running', 'pid': 17788}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 17876}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'AutoModeDetect.exe', 'status': 'running', 'pid': 18180}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 18324}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedge.exe', 'status': 'running', 'pid': 18344}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 18912}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'browserhost.exe', 'status': 'running', 'pid': 19060}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'OpenConsole.exe', 'status': 'running', 'pid': 19436}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'GoogleDriveFS.exe', 'status': 'running', 'pid': 19496}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'conhost.exe', 'status': 'running', 'pid': 19688}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 19768}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'mscopilot.exe', 'status': 'running', 'pid': 20060}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'TextInputHost.exe', 'status': 'running', 'pid': 20144}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'svchost.exe', 'status': 'running', 'pid': 20432}
+______________________________________________
+{'username': None, 'name': 'elevation_service.exe', 'status': 'running', 'pid': 20568}
+______________________________________________
+{'username': None, 'name': 'McUICnt.exe', 'status': 'running', 'pid': 20576}
+______________________________________________
+{'username': None, 'name': 'WUDFHost.exe', 'status': 'running', 'pid': 20628}
+______________________________________________
+{'username': None, 'name': 'winlogon.exe', 'status': 'running', 'pid': 20752}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 20820}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'taskhostw.exe', 'status': 'running', 'pid': 20888}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'svchost.exe', 'status': 'running', 'pid': 20960}
+______________________________________________
+{'username': None, 'name': 'UDClientService.exe', 'status': 'running', 'pid': 21048}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 21456}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'ModuleCoreService.exe', 'status': 'running', 'pid': 21600}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 21640}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'McUICnt.exe', 'status': 'running', 'pid': 21868}
+______________________________________________
+{'username': None, 'name': 'Locator.exe', 'status': 'running', 'pid': 21952}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 22732}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 22836}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'cmd.exe', 'status': 'running', 'pid': 22928}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 23072}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'mscopilot.exe', 'status': 'running', 'pid': 23160}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 23248}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'uihost.exe', 'status': 'running', 'pid': 23540}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 23844}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 23888}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'mscopilot.exe', 'status': 'running', 'pid': 23944}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 24056}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 24312}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 24408}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 24704}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 24716}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'MfeBrowserHost.exe', 'status': 'running', 'pid': 24992}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'conhost.exe', 'status': 'running', 'pid': 25132}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'mscopilot.exe', 'status': 'running', 'pid': 25284}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 25300}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 25384}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 25500}
+______________________________________________
+{'username': None, 'name': 'AppProvisioningPlugin.exe', 'status': 'running', 'pid': 25648}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 25916}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 26036}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 26088}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 26196}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 26200}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 26204}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 26300}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'conhost.exe', 'status': 'running', 'pid': 26436}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'powershell.exe', 'status': 'running', 'pid': 26472}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'smartscreen.exe', 'status': 'running', 'pid': 26612}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 26828}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 27640}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'WhatsApp.Root.exe', 'status': 'running', 'pid': 27856}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 28052}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'LenovoVantage-(GenericMessagingAddin).exe', 'status': 'running', 'pid': 28080}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 28092}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'ShellHost.exe', 'status': 'running', 'pid': 28196}
+______________________________________________
+{'username': None, 'name': 'WmiPrvSE.exe', 'status': 'running', 'pid': 28548}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'svchost.exe', 'status': 'running', 'pid': 28752}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 28984}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 29204}
+______________________________________________
+{'username': None, 'name': 'OfficeClickToRun.exe', 'status': 'running', 'pid': 29296}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'FnHotkeyUtility.exe', 'status': 'running', 'pid': 29328}
+______________________________________________
+{'username': None, 'name': 'McUICnt.exe', 'status': 'running', 'pid': 29476}
+______________________________________________
+{'username': None, 'name': 'svchost.exe', 'status': 'running', 'pid': 29492}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'pet.exe', 'status': 'running', 'pid': 29832}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'svchost.exe', 'status': 'running', 'pid': 29884}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 30188}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'mscopilot.exe', 'status': 'running', 'pid': 30228}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 30248}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 30276}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'conhost.exe', 'status': 'running', 'pid': 30476}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'mscopilot.exe', 'status': 'running', 'pid': 30812}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'RtkAudUService64.exe', 'status': 'running', 'pid': 30864}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Widgets.exe', 'status': 'running', 'pid': 30964}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'pet.exe', 'status': 'running', 'pid': 31036}
+______________________________________________
+{'username': None, 'name': 'elevation_service.exe', 'status': 'running', 'pid': 31240}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'OneDrive.Sync.Service.exe', 'status': 'running', 'pid': 31316}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 31340}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'UserOOBEBroker.exe', 'status': 'running', 'pid': 31560}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'CrossDeviceResume.exe', 'status': 'running', 'pid': 31704}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 31920}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 31932}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 32028}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'ctfmon.exe', 'status': 'running', 'pid': 32032}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'explorer.exe', 'status': 'running', 'pid': 32328}
+______________________________________________
+{'username': None, 'name': 'dwm.exe', 'status': 'running', 'pid': 32348}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 32456}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 32544}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 32864}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 32944}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 33012}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'OpenConsole.exe', 'status': 'running', 'pid': 33172}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'crashpad_handler.exe', 'status': 'running', 'pid': 33192}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 33208}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'ipf_helper.exe', 'status': 'running', 'pid': 33304}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'conhost.exe', 'status': 'running', 'pid': 33596}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 33896}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 34008}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'conhost.exe', 'status': 'running', 'pid': 34224}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'unsecapp.exe', 'status': 'running', 'pid': 34244}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 34280}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'cmd.exe', 'status': 'running', 'pid': 34572}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'SecurityHealthSystray.exe', 'status': 'running', 'pid': 34640}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 34660}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 34792}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'AppActions.exe', 'status': 'running', 'pid': 35096}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'MessagingPlugin.exe', 'status': 'running', 'pid': 35192}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedge.exe', 'status': 'running', 'pid': 35280}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'taskhostw.exe', 'status': 'running', 'pid': 35572}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 35992}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'conhost.exe', 'status': 'running', 'pid': 36168}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 36276}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'MoNotificationUx.exe', 'status': 'running', 'pid': 36416}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 36456}
+______________________________________________
+{'username': None, 'name': 'DAX3API.exe', 'status': 'running', 'pid': 36736}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'FnHotkeyCapsLKNumLK.exe', 'status': 'running', 'pid': 37088}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'EpicWebHelper.exe', 'status': 'running', 'pid': 37140}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 37164}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'Code.exe', 'status': 'running', 'pid': 37396}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 37632}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'svchost.exe', 'status': 'running', 'pid': 37748}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 37764}
+______________________________________________
+{'username': 'VAIBHAV\\vaibh', 'name': 'chrome.exe', 'status': 'running', 'pid': 37816}
+______________________________________________
