@@ -1,0 +1,7 @@
+Model                            Accuracy
+
+Logistic Regression               0.7
+Decision Tree                     1.0
+KNN                               0.8
+HardVoting                        0.8
+SoftVoting                        0.8
