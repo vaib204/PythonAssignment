@@ -136,13 +136,35 @@ print(recall)
 print("F1 score is:")
 f1 = f1_score(Y_test,Y_pred)
 print(f1)
-
+#########################################################################
 
 print("--------------------------------------------------------------------")
+print("Check New Customer Details for approval:")
+
+new_customer = pd.DataFrame(
+    [[35, 750, 7, 1,1,300000]],
+    columns=X.columns
+)
+new_data_scale = scaler.transform(new_customer)
+
+new_pred = model.predict(new_data_scale)
+
+if new_pred[0] == 1:
+  print("Loan Approve")
+else:
+  print("Not Approve")  
 
 
+print("-------------------------------------")
+###################################################################
 
+print("Traning Loss Curve")
+plt.figure(figsize=(8,5))
+plt.plot(model.loss_curve_)
 
+plt.title("MLP Training Loss Curve")
+plt.xlabel("Iterations")
+plt.ylabel("Training Loss")
+plt.grid()
 
-
-
+plt.show()
